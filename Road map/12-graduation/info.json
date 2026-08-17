@@ -1,0 +1,62 @@
+{
+  "name": "Graduation",
+  "date": "Jul 2026",
+  "description": "The final stop — I graduated. The cap, the gown, the family photos and the proud tears. Every milestone on this road map led to this moment. End of one adventure, start of the next.",
+  "special": true,
+  "images": [
+    "/Road map/12-graduation/image-1.jpg",
+    "/Road map/12-graduation/image-2.jpg",
+    "/Road map/12-graduation/image-4.jpg",
+    
+    "/Road map/12-graduation/image-6.jpg",
+    "/Road map/12-graduation/image-7.jpg",
+    "/Road map/12-graduation/image-8.jpg"
+  ],
+  "videos": [
+    {
+      "src": "/Road map/12-graduation/video-1.mp4",
+      "poster": "/Road map/12-graduation/image-1.jpg"
+    },
+    {
+      "src": "/Road map/12-graduation/video-2.mp4",
+      "poster": "/Road map/12-graduation/image-1.jpg"
+    },
+    {
+      "src": "/Road map/12-graduation/video-3.mp4",
+      "poster": "/Road map/12-graduation/image-1.jpg"
+    },
+    {
+      "src": "/Road map/12-graduation/video-4.mp4",
+      "poster": "/Road map/12-graduation/image-1.jpg"
+    },
+    {
+      "src": "/Road map/12-graduation/video-5.mp4",
+      "poster": "/Road map/12-graduation/image-1.jpg"
+    },
+    {
+      "src": "/Road map/12-graduation/video-6.mp4",
+      "poster": "/Road map/12-graduation/image-1.jpg"
+    },
+    {
+      "src": "/Road map/12-graduation/video-7.mp4",
+      "poster": "/Road map/12-graduation/image-1.jpg"
+    },
+    {
+      "src": "/Road map/12-graduation/video-8.mp4",
+      "poster": "/Road map/12-graduation/image-1.jpg"
+    },
+    {
+      "src": "/Road map/12-graduation/video-9.mp4",
+      "poster": "/Road map/12-graduation/image-1.jpg"
+    },
+    {
+      "src": "/Road map/12-graduation/video-10.mp4",
+      "poster": "/Road map/12-graduation/image-1.jpg"
+    },
+    {
+      "src": "/Road map/12-graduation/video-11.mp4",
+      "poster": "/Road map/12-graduation/image-1.jpg"
+    }
+  ],
+  "links": []
+}

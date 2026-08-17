@@ -1,0 +1,26 @@
+{
+  "name": "Hackathon",
+  "date": "01 Apr 2026",
+  "description": "I participated in the Reverse Engineering Hackathon — 30 hours non-stop with my team 'Ecominds'. We finished 5th place and proved to ourselves that we can take an idea and ship a working project in a weekend. The screenshots and videos show every hour of it.",
+  "special": true,
+  "images": [
+    "/Road map/07-hackathon/image-1.jpg",
+    "/Road map/07-hackathon/image-2.jpg",
+    "/Road map/07-hackathon/image-3.jpg",
+    "/Road map/07-hackathon/image-4.jpg",
+    "/Road map/07-hackathon/image-5.jpg",
+    "/Road map/07-hackathon/image-6.jpg",
+    "/Road map/07-hackathon/image-7.jpg",
+    "/Road map/07-hackathon/image-8.jpeg"
+  ],
+  "videos": [
+    {
+      "src": "/Road map/07-hackathon/video-1.mp4",
+      "poster": "/Road map/07-hackathon/image-1.jpg"
+    }
+  ],
+  "links": [
+    { "label": "Facebook Post", "href": "https://www.facebook.com/share/p/1Ctv36jvnU/" },
+    { "label": "Facebook Post", "href": "https://www.facebook.com/share/p/1Eet925YTk/" }
+  ]
+}

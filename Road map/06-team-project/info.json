@@ -1,0 +1,37 @@
+{
+  "name": "Team Project",
+  "date": "07 Mar 2026",
+  "description": "Working with the boys to achieve big things together as a team. Long nights, 2am fixes and small victories — we split the work, argued over details and finally watched our project come together. These videos capture the journey behind the result.",
+  "special": false,
+  "images": [
+    "/Road map/06-team-project/image-1.jpg"
+  ],
+  "videos": [
+    {
+      "src": "/Road map/06-team-project/video-1.mp4",
+      "poster": "/Road map/06-team-project/image-1.jpg"
+    },
+    {
+      "src": "/Road map/06-team-project/video-2.mp4",
+      "poster": "/Road map/06-team-project/image-1.jpg"
+    },
+    {
+      "src": "/Road map/06-team-project/video-3.mp4",
+      "poster": "/Road map/06-team-project/image-1.jpg"
+    },
+    {
+      "src": "/Road map/06-team-project/video-5.mp4",
+      "poster": "/Road map/06-team-project/image-1.jpg"
+    },
+    {
+      "src": "/Road map/06-team-project/video-6.mp4",
+      "poster": "/Road map/06-team-project/image-1.jpg"
+    },
+    {
+      "src": "/Road map/06-team-project/video-4.mp4",
+      "poster": "/Road map/06-team-project/image-1.jpg"
+    }
+    
+  ],
+  "links": []
+}

@@ -1,0 +1,24 @@
+
+
+Ctram statistics JOB "2024-09-24"
+
+outside trip "2025-10-15"
+
+ICFMC "2025-10-28"
+
+First nov "2025-11-01"
+
+Ai day "2026-02-16"
+
+team project "2026-03-07"
+
+hackathon "2026-04-01"
+
+Student Day "2026-05-19"
+
+Barry day "2026-06-01"
+
+pitching day '2026-06-04'
+
+
+Dental app "2026-08-04"

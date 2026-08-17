@@ -1,0 +1,16 @@
+{
+  "name": "Pitching Day",
+  "date": "04 Jun 2026",
+  "description": "I attended the training session organized by the University Incubator of Sétif 1 for the “Pitch Your Startup in 180 Seconds” competition.It helped me learn how to structure a strong 180-second pitch targeting investors.",
+  "special": true,
+  "images": [
+    "/Road map/10-pitching-day/image-1.jpg",
+    "/Road map/10-pitching-day/image-2.jpg",
+    "/Road map/10-pitching-day/image-3.jpg"
+  ],
+  "videos": [],
+  "links": [
+    { "label": "Facebook Post", "href": "https://www.facebook.com/share/p/16A19pUG4Mn/" },
+    { "label": "Facebook Post", "href": "https://www.facebook.com/share/p/1B2TMevqFS/" }
+  ]
+}

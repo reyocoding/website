@@ -1,0 +1,20 @@
+{
+  "name": "Outside Trip",
+  "date": "15 Oct 2025",
+  "description": "I participated in the university outside trip — a full day off campus to visit the Budget control center of the state . I spent the day exploring and taking notes. It was Great.",
+  "special": false,
+  "images": [
+    "/Road map/02-outside-trip/image-1.jpg",
+    "/Road map/02-outside-trip/image-2.jpg",
+    "/Road map/02-outside-trip/image-3.jpg",
+    "/Road map/02-outside-trip/image-4.jpg",
+    "/Road map/02-outside-trip/image-5.jpg",
+    "/Road map/02-outside-trip/image-6.jpg",
+    "/Road map/02-outside-trip/image-7.jpg",
+    "/Road map/02-outside-trip/image-8.jpg"
+  ],
+  "videos": [],
+  "links": [
+    { "label": "Facebook Post", "href": "https://www.facebook.com/share/p/17rA8Jo5pJ/" }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "CTRAM Statistics Job",
+  "date": "24 Sep 2024",
+  "description": "I landed my first  statistics internship at CTRAM, the tramway company of Sétif. I participated in the day-to-day operations of a real business: working with real data, real teams and real deadlines, and learning how the statistics from my classes actually move a company.",
+  "special": false,
+  "images": [
+    "/Road map/01-ctram-statistics-job/image-1.jpg",
+    "/Road map/01-ctram-statistics-job/image-2.jpg",
+    "/Road map/01-ctram-statistics-job/image-3.jpg"
+  ],
+  "videos": [
+    {
+      "src": "/Road map/01-ctram-statistics-job/video-1.mp4",
+      "poster": "/Road map/01-ctram-statistics-job/image-1.jpg"
+    },
+    {
+      "src": "/Road map/01-ctram-statistics-job/video-2.mp4",
+      "poster": "/Road map/01-ctram-statistics-job/image-1.jpg"
+    }
+  ],
+  "links": []
+}
