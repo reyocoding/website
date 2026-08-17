@@ -1,0 +1,34 @@
+{
+  "name": "Student Day",
+  "date": "19 May 2026",
+  "description": "I participated in the National Student Day on the 19th of May and presented my project 'Digital Finger Clock' at the exhibition — the mayor of Sétif came by to check it out himself. One of the proudest moments of my student life.",
+  "special": true,
+  "images": [
+    "/Road map/08-student-day/image-1.jpg",
+    "/Road map/08-student-day/image-2.jpg",
+    "/Road map/08-student-day/image-3.jpg",
+    "/Road map/08-student-day/image-4.jpg",
+    "/Road map/08-student-day/image-5.jpg",
+    "/Road map/08-student-day/image-6.jpg",
+    "/Road map/08-student-day/image-9.jpg"
+  ],
+  "videos": [
+    {
+      "src": "/Road map/08-student-day/video-1.mp4",
+      "poster": "/Road map/08-student-day/image-1.jpg"
+    },
+    {
+      "src": "/Road map/08-student-day/video-2.mp4",
+      "poster": "/Road map/08-student-day/image-1.jpg"
+    },
+    {
+      "src": "/Road map/08-student-day/video-3.mp4",
+      "poster": "/Road map/08-student-day/image-1.jpg"
+    },
+    {
+      "src": "/Road map/08-student-day/video-4.mp4",
+      "poster": "/Road map/08-student-day/image-1.jpg"
+    }
+  ],
+  "links": []
+}

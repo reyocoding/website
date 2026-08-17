@@ -1,0 +1,16 @@
+{
+  "name": "Dental App",
+  "date": "04 Aug 2026",
+  "description": "The next chapter. I'm building DentalCare OS — a complete dental clinic management system where I get to apply everything I've learned and keep pushing further. Dashboard, interactive tooth charts, multi-session scheduling and patient records — this milestone is where the future begins.",
+  "special": false,
+  "images": [
+    "/Road map/14-dental-app/image-1.png",
+    "/Road map/14-dental-app/image-2.png",
+    "/Road map/14-dental-app/image-3.png",
+    "/Road map/14-dental-app/image-4.png"
+  ],
+  "videos": [],
+  "links": [
+    { "label": "GitHub Repo", "href": "https://github.com/reyocoding/dentalcare-os" }
+  ]
+}
