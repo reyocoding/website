@@ -22,7 +22,7 @@ jobs:
           node-version: 18
           cache: npm
       - run: npm ci
-      - run: NEXT_PUBLIC_BASE_PATH=/website npx next build && npx next export
+      - run: npx next build && npx next export
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v3
         with:
